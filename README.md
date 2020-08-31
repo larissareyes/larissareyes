@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Go.
-- 💬 Ask me about Docker
+- 💬 Ask me about Python,Docker..
 - 📫 How to reach me: larissareyes[at]pm[dot]me
 - 😄 Pronouns: She,Her
 <!--
